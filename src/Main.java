@@ -133,6 +133,5 @@ public class Main {
         printDep(1);
         printEmployeesWithBiggerSalary(38000);
         System.out.println(getAverageSalaryOfDep(5));
-
     }
 }
